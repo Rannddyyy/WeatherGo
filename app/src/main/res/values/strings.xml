@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WeatherGo</string>
+    <string name="title_home">Home</string>
+    <string name="title_routeplan">RoutePlan</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="nothingHere">N/A</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
