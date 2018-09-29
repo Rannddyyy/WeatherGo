@@ -1,7 +1,7 @@
  Weather Go 
 ===============================
 
-<img src="https://i.imgur.com/sd2pFS4.png" width="75">
+<img src="https://i.imgur.com/sd2pFS4.png" width="100">
 
 Introduction
 ---
