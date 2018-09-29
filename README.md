@@ -23,7 +23,7 @@ Prerequisites
 
 抓取裝置所在地理位置，畫面會顯示當前鄉鎮的天氣資訊，包括
 
-- 顯示氣象圖式 (降雨或晴天...)
+- 顯示當前氣候圖示 (降雨或晴天...)
 - 氣溫與體感溫度
 - 風向與風速
 - 降雨機率與濕度
@@ -44,6 +44,7 @@ Prerequisites
 * 基於 Android Studio 開發
 * buildToolsVersion = 27.0.3
 * 使用套件
+
  - [Google Maps Geocoding API_v11.6.2](https://developers.google.com/maps/documentation/geocoding/start) 透過經取得縣市鄉鎮資料
  - [Google Android Maps API_v11.6.2](https://developers.google.com/maps/documentation/android-sdk/intro) 支持 Weather Go  的 Map 設定
  - [Google Maps Direction API_v11.6.2](https://developers.google.com/maps/documentation/directions/intro) 用於路線規劃
