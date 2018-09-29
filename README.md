@@ -55,11 +55,15 @@ Prerequisites
 
 Screenshots
 ---
+
  <img src="https://i.imgur.com/4irHmJj.png" width="200"> <img src="https://i.imgur.com/c55BXbg.png" width="200"> <img src="https://i.imgur.com/bm3kdOm.png" width="200">
  <img src="https://i.imgur.com/8NUAyn4.png" width="200"> <img src="https://i.imgur.com/f0aZlOh.png" width="200">
 
+Contributors
+---
 
-
+[Rannddyyy](https://github.com/Rannddyyy)
+[jimmy801](https://github.com/jimmy801)
 
 
 
