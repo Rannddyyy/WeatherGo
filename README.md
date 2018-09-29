@@ -41,18 +41,17 @@ Prerequisites
 系統架構設計
 ---
 
-* 基於 Android Studio 開發
-* buildToolsVersion = 27.0.3
-* 使用套件
-
- - [Google Maps Geocoding API_v11.6.2](https://developers.google.com/maps/documentation/geocoding/start) 透過經取得縣市鄉鎮資料
- - [Google Android Maps API_v11.6.2](https://developers.google.com/maps/documentation/android-sdk/intro) 支持 Weather Go  的 Map 設定
- - [Google Maps Direction API_v11.6.2](https://developers.google.com/maps/documentation/directions/intro) 用於路線規劃
- - [Google Places SDK for Android_v11.6.2](https://developers.google.com/places/android-sdk/start) 用於在 Map 上
++ 基於 Android Studio 環境開發
++ buildToolsVersion = 27.0.3
++ 使用套件
+    - [Google Maps Geocoding API_v11.6.2](https://developers.google.com/maps/documentation/geocoding/start) 透過經取得縣市鄉鎮資料
+    - [Google Android Maps API_v11.6.2](https://developers.google.com/maps/documentation/android-sdk/intro) 支持 Weather Go  的 Map 設定
+    - [Google Maps Direction API_v11.6.2](https://developers.google.com/maps/documentation/directions/intro) 用於路線規劃
+    - [Google Places SDK for Android_v11.6.2](https://developers.google.com/places/android-sdk/start) 用於在 Map 上
 選擇特定地點以及搜尋地點 Autocomplete
- - [Apache HttpClient API_v4.5.3](https://www.google.com/search?q=Apache+HttpClient+API&ie=utf-8&oe=utf-8&client=firefox-b-ab) 用於建立HTTP連線取得opendata
- - [MPAndroidChart_v2.1.6]() 用於建立統計圖表
- - [交通部中央氣象局-開放資料平台](http://opendata.cwb.gov.tw/index;jsessionid=9D8537279F7CFA78A97AA16889CE1784)
+    - [Apache HttpClient API_v4.5.3](https://www.google.com/search?q=Apache+HttpClient+API&ie=utf-8&oe=utf-8&client=firefox-b-ab) 用於建立HTTP連線取得opendata
+    - [MPAndroidChart_v2.1.6]() 用於建立統計圖表
+    - [交通部中央氣象局-開放資料平台](http://opendata.cwb.gov.tw/index;jsessionid=9D8537279F7CFA78A97AA16889CE1784)
 
 Screenshots
 ---
