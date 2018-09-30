@@ -44,7 +44,7 @@ Prerequisites
 
 + 基於 Android Studio 環境開發
 + buildToolsVersion = 27.0.3
-+ 使用套件
++ 外部資源
     - [Google Maps Geocoding API_v11.6.2](https://developers.google.com/maps/documentation/geocoding/start) 透過經取得縣市鄉鎮資料
     - [Google Android Maps API_v11.6.2](https://developers.google.com/maps/documentation/android-sdk/intro) 支持 Weather Go  的 Map 設定
     - [Google Maps Direction API_v11.6.2](https://developers.google.com/maps/documentation/directions/intro) 用於路線規劃
